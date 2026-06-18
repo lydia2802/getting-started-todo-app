@@ -1,0 +1,1 @@
+docker build -t lydia2802/getting-started-todo-app
